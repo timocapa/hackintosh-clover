@@ -274,7 +274,7 @@
 			<key>IMEI</key>
 			<string>0x0000</string>
 			<key>IntelGFX</key>
-			<string>0x0412</string>
+			<string>0x0000</string>
 			<key>LAN</key>
 			<string>0x0000</string>
 			<key>NVidia</key>
@@ -336,7 +336,7 @@
 				</data>
 				<key>model</key>
 				<data>
-				SW50ZWwgSEQgR3JhcGhpYwAAcyA0Ng==
+				SW50ZWwgSEQgR3JhcGhpYwAABzIDQw==
 				</data>
 				<key>subsystem-vendor-id</key>
 				<data>
