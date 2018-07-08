@@ -1,2 +1,2 @@
-# z97-clover
-My clover settings for my hackintosh
+# macOS-Clover setups
+clover settings for a hackintosh
