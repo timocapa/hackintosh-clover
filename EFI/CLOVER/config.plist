@@ -342,7 +342,7 @@
 				</data>
 				<key>model</key>
 				<data>
-				SW50ZWwgSEQgR3JhcGhpYwAHMgNDYw==
+				SW50ZWwgSEQgR3JhcGhpYwAAcyA0Ng==
 				</data>
 				<key>subsystem-vendor-id</key>
 				<data>
@@ -481,7 +481,7 @@
 		<key>display-cfg</key>
 		<string>03010300ffff0001</string>
 		<key>ig-platform-id</key>
-		<string>0x0a260006</string>
+		<string>0x0D220003</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
