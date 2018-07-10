@@ -172,8 +172,6 @@
 		<false/>
 		<key>#Timeout</key>
 		<string>_NOT_SHOWN_</string>
-		<key>Arguments</key>
-		<string>-v</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
@@ -274,7 +272,7 @@
 			<key>IMEI</key>
 			<string>0x0000</string>
 			<key>IntelGFX</key>
-			<string>0x0000</string>
+			<string>0x04128086</string>
 			<key>LAN</key>
 			<string>0x0000</string>
 			<key>NVidia</key>
@@ -316,7 +314,7 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>
-				AwAiDQ==
+				BgAmCg==
 				</data>
 				<key>AAPL00,DualLink</key>
 				<data>
@@ -328,7 +326,7 @@
 				</data>
 				<key>device-id</key>
 				<data>
-				AAAAAA==
+				EgQAAA==
 				</data>
 				<key>graphic-options</key>
 				<data>
@@ -336,7 +334,7 @@
 				</data>
 				<key>model</key>
 				<data>
-				SW50ZWwgSEQgR3JhcGhpYwAABzIDQw==
+				SW50ZWwgSEQgR3JhcGhpYwBzIDQ2MA==
 				</data>
 				<key>subsystem-vendor-id</key>
 				<data>
@@ -344,7 +342,7 @@
 				</data>
 				<key>vendor-id</key>
 				<data>
-				EgQAAA==
+				hoAAAA==
 				</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x3,0x0)</key>
@@ -386,7 +384,7 @@
 			<string>EntryPath_NOT_SHOWN</string>
 		</array>
 		<key>#Language</key>
-		<string>en:0</string>
+		<string></string>
 		<key>#Theme</key>
 		<string>embedded</string>
 		<key>Custom</key>
@@ -416,8 +414,6 @@
 			<key>Comment</key>
 			<string>These values wrong, they present for sample</string>
 		</dict>
-		<key>ScreenResolution</key>
-		<string>1920x1080</string>
 		<key>TextOnly</key>
 		<false/>
 	</dict>
@@ -477,7 +473,7 @@
 		<key>display-cfg</key>
 		<string>03010300ffff0001</string>
 		<key>ig-platform-id</key>
-		<string>0x0d220003</string>
+		<string>0x0a260006</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
@@ -505,7 +501,7 @@
 			</dict>
 		</array>
 		<key>#Number of KextsToPatch</key>
-		<integer>27</integer>
+		<integer>4</integer>
 		<key>#Number of Patchs To Kernel</key>
 		<integer>0</integer>
 		<key>AppleIntelCPUPM</key>
@@ -605,7 +601,7 @@
 	<key>RtVariables</key>
 	<dict>
 		<key>#MLB</key>
-		<string>C02LCK13F8JCJAJCD</string>
+		<string>C02426501GUFF4P8C</string>
 		<key>#ROM</key>
 		<string>UseMacAddr0</string>
 		<key>BooterConfig</key>
@@ -653,13 +649,9 @@
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
-		<string>0x0D</string>
+		<string>0x000d</string>
 		<key>Family</key>
 		<string>iMac</string>
-		<key>FirmwareFeatures</key>
-		<string>0xF80FE137</string>
-		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -673,13 +665,13 @@
 		<key>OEMVendor</key>
 		<string>ASUSTeK COMPUTER INC.</string>
 		<key>PlatformFeature</key>
-		<string>0x01</string>
+		<string>0x0000</string>
 		<key>ProductName</key>
 		<string>iMac15,1</string>
 		<key>SerialNumber</key>
 		<string>C02MX1HFFY10</string>
 		<key>SmUUID</key>
-		<string>889D464D-AEAB-468A-B770-848C3AC5D157</string>
+		<string>889d464d-aeab-468a-b770-848c3ac5d157</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
