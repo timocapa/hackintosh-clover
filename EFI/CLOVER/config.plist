@@ -172,6 +172,8 @@
 		<false/>
 		<key>#Timeout</key>
 		<string>_NOT_SHOWN_</string>
+		<key>Arguments</key>
+		<string>-v</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
