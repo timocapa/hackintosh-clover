@@ -218,6 +218,12 @@
 		<false/>
 		<key>#UseARTFrequency</key>
 		<false/>
+		<key>C2</key>
+		<true/>
+		<key>C4</key>
+		<true/>
+		<key>C6</key>
+		<true/>
 		<key>EnabledCores</key>
 		<integer>4</integer>
 		<key>FrequencyMHz</key>
@@ -334,7 +340,7 @@
 				</data>
 				<key>model</key>
 				<data>
-				SW50ZWwgSEQgR3JhcGhpYwBzIDQ2MA==
+				SW50ZWwgSEQgR3JhcGhpYwAHMgNDYw==
 				</data>
 				<key>subsystem-vendor-id</key>
 				<data>
