@@ -342,7 +342,7 @@
 				</data>
 				<key>model</key>
 				<data>
-				SW50ZWwgSEQgR3JhcGhpY3MgNDYwMA==
+				SW50ZWwgSEQgR3JhcGhpYwBzIDQ2MA==
 				</data>
 				<key>subsystem-vendor-id</key>
 				<data>
@@ -526,85 +526,6 @@
 		<false/>
 		<key>KernelXCPM</key>
 		<false/>
-		<key>KextsToPatch</key>
-		<array>
-			<dict>
-				<key>Comment</key>
-				<string>t1-10.8-AppleHDA-Realtek-ALC1150</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				ixnUEQ==
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>com.apple.driver.AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				AAnsEA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>t1-AppleHDA-Resources-xml&gt;zml-(cloverALC-all_codecs)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				eG1sLnps
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>Name</key>
-				<string>com.apple.driver.AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				em1sLnps
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>t1-10.12-AppleHDA-Realtek-ALC...(cloverALC-all_codecs)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				ihnUEQ==
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>MatchOS</key>
-				<string>10.12.x,10.13.x</string>
-				<key>Name</key>
-				<string>com.apple.driver.AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				AAAAAA==
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>t1-10.11-AppleHDA-Realtek-ALC...(cloverALC-all_codecs)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				gxnUEQ==
-				</data>
-				<key>InfoPlistPatch</key>
-				<false/>
-				<key>MatchOS</key>
-				<string>10.11.x</string>
-				<key>Name</key>
-				<string>com.apple.driver.AppleHDA</string>
-				<key>Replace</key>
-				<data>
-				AAAAAA==
-				</data>
-			</dict>
-		</array>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
