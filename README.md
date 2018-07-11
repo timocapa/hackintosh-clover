@@ -19,5 +19,3 @@ Other useful stuff:
 https://github.com/vulgo/webdriver.sh
 
 https://mackie100projects.altervista.org/download-clover-configurator/
-
-https://github.com/toleda/audio_CloverALC
