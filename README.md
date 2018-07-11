@@ -1,5 +1,18 @@
-# macOS-Clover setups
-clover settings and other useful stuff for a hackintosh
+# macOS High Sierra Clover Config for the ASUS Z97-Pro Gamer
+
+I own NONE of the files that are supplied and all rights go to their original owners
+
+### Working
+- Ethernet
+- Sleep/Wake
+- Audio
+- Graphics (HD4600)
+
+### Not working
+?
+
+### Untested
+?
 
 Other useful stuff: 
 
