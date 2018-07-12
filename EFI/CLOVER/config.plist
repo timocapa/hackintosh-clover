@@ -104,6 +104,8 @@
 	<dict>
 		<key>CustomUUID</key>
 		<string>6408DC9E-2096-4268-8AE7-F9E9CADE1924</string>
+		<key>NvidiaWeb</key>
+		<true/>
 	</dict>
 </dict>
 </plist>
