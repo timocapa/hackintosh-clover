@@ -37,9 +37,16 @@
 		</dict>
 		<key>USB</key>
 		<dict>
+			<key>FixOwnership</key>
+			<false/>
 			<key>Inject</key>
 			<false/>
 		</dict>
+	</dict>
+	<key>GUI</key>
+	<dict>
+		<key>Theme</key>
+		<string>random</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
@@ -68,7 +75,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02420609OPF1178C</string>
+		<string>C02453609QXF6521H</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -96,9 +103,9 @@
 		<key>ProductName</key>
 		<string>iMac15,1</string>
 		<key>SerialNumber</key>
-		<string>C02MR1Z4FY10</string>
+		<string>C02NX2A8FY10</string>
 		<key>SmUUID</key>
-		<string>6408DC9E-2096-4268-8AE7-F9E9CADE1924</string>
+		<string>6ECB8FEE-E0C7-468A-9169-DE91CF445AE5</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
