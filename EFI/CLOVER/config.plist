@@ -9,7 +9,7 @@
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>0</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
