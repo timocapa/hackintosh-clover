@@ -8,8 +8,6 @@
 		<string>-v</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
-		<key>Timeout</key>
-		<integer>0</integer>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -20,7 +18,7 @@
 		<key>C6</key>
 		<true/>
 		<key>FrequencyMHz</key>
-		<integer>4700</integer>
+		<integer>4800</integer>
 		<key>QPI</key>
 		<integer>0</integer>
 		<key>SavingMode</key>
@@ -37,45 +35,47 @@
 		</dict>
 		<key>USB</key>
 		<dict>
-			<key>FixOwnership</key>
-			<false/>
 			<key>Inject</key>
-			<false/>
+			<true/>
 		</dict>
 	</dict>
-	<key>GUI</key>
+	<key>Graphics</key>
 	<dict>
-		<key>Theme</key>
-		<string>random</string>
-	</dict>
-	<key>KernelAndKextPatches</key>
-	<dict>
-		<key>AppleRTC</key>
-		<false/>
+		<key>Inject</key>
+		<dict>
+			<key>Intel</key>
+			<true/>
+		</dict>
+		<key>NVCAP</key>
+		<string>04000000000003000c0000000000000700000000</string>
+		<key>display-cfg</key>
+		<string>03010300ffff0001</string>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
 		<key>BooterConfig</key>
-		<string>0x28</string>
+		<string>0x0028</string>
 		<key>CsrActiveConfig</key>
-		<string>0x67</string>
+		<string>0x0067</string>
+		<key>MLB</key>
+		<string>C025437004NG2Y78C</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>04/11/2018</string>
+		<string>09/19/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM151.88Z.0217.B00.1804111039</string>
+		<string>IM151.88Z.0219.B00.1809190740</string>
 		<key>Board-ID</key>
 		<string>Mac-42FD25EABCABB274</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02453609QXF6521H</string>
+		<string>C025437004NG2Y78C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -86,6 +86,8 @@
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x0D</string>
+		<key>EfiVersion</key>
+		<string>222.0.0.0.0</string>
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
@@ -103,16 +105,20 @@
 		<key>ProductName</key>
 		<string>iMac15,1</string>
 		<key>SerialNumber</key>
-		<string>C02NX2A8FY10</string>
+		<string>C02QLUY8FY10</string>
 		<key>SmUUID</key>
-		<string>6ECB8FEE-E0C7-468A-9169-DE91CF445AE5</string>
-		<key>Trust</key>
-		<true/>
+		<string>B1A9979D-689E-4945-9F04-2B7F34284EA0</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
+		<key>BacklightLevel</key>
+		<string>0xffff</string>
+		<key>CustomUUID</key>
+		<string>C24CDF35-7A9D-4CCA-A048-B16CB7A076D3</string>
+		<key>InjectSystemID</key>
+		<true/>
 		<key>NvidiaWeb</key>
 		<true/>
 	</dict>
