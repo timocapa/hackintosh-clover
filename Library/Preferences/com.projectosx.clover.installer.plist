@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CloverRevision</key>
+	<integer>5058</integer>
+	<key>InstalledThemes</key>
+	<array>
+		<string>embedded</string>
+		<string>random</string>
+	</array>
+	<key>org.clover.bootloader.boot0af</key>
+	<true/>
+	<key>org.clover.cloverefi.64.sata</key>
+	<true/>
+	<key>org.clover.drivers64.apfsdriverloader</key>
+	<true/>
+	<key>org.clover.drivers64.mandatory.audiodxe</key>
+	<true/>
+	<key>org.clover.drivers64.mandatory.fsinject</key>
+	<true/>
+	<key>org.clover.drivers64.mandatory.smchelper</key>
+	<true/>
+	<key>org.clover.drivers64.mandatory.xhcidxe</key>
+	<true/>
+	<key>org.clover.fv2.drivers64.appleimagecodec</key>
+	<true/>
+	<key>org.clover.fv2.drivers64.applekeyaggregator</key>
+	<true/>
+	<key>org.clover.fv2.drivers64.appleuitheme</key>
+	<true/>
+	<key>org.clover.fv2.drivers64.firmwarevolume</key>
+	<true/>
+</dict>
+</plist>
